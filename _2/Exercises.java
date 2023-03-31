@@ -49,8 +49,8 @@ public class Exercises {
          new Student("Alice", 33),
          new Student("Bob"),
          new Student(33),
-         new Student()
-        );
+         new Student());
+
          System.out.println(students);
     }
 }
